@@ -1,2 +1,14 @@
 # JetBrains
 .idea/
+
+# Terraform
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/terraform.tfvars
+
+# GCP
+terraform/service_account.json
+
+# Kubernetes
+kubeconfigs/
